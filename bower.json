@@ -1,0 +1,17 @@
+{
+    "name": "syncopate-googlefont",
+    "license": "APACHE2",
+    "authors": [
+        "Astigmatic"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/syncopate-bower.git"
+    },
+    "description": "Syncopate font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
